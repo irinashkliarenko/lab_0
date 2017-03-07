@@ -13,7 +13,5 @@ public class TailsGenerator {
 		tails.add("");
 		System.out.println(tails.size()-1);
 		return tails;
-	} 
-
+	}
 }
-;
